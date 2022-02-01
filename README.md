@@ -2,9 +2,9 @@
 # Welcome-to-GitHub
 First repository for new users
 
-Please enter your name:
+Please enter your name: Edwin Islas Aguirre
 
-Please enter your favorite color:
+Please enter your favorite color: Red like a whole lot of Red
 
 Save and push this file back up to GitHub. 
 Make sure to add a commit comment: "Added name and color"!
